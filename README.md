@@ -7,3 +7,4 @@
 - Email: Pro.mailtome@gmail.com
 - Website: https://annon.netlify.app
 - [![Rajneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajneeshweb&show_icons=true&theme=tokyonight)](https://github.com/rajneeshweb/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb)](https://github.com/rajneeshweb/github-readme-stats)
