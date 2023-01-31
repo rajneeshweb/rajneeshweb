@@ -7,6 +7,6 @@
 - 🌐 **https://annon.netlify.app**
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajneeshweb&amp;show_icons=true&amp;include_all_commits=false&amp;count_private=true&amp;line_height=30&amp;theme=chartreuse-dark&amp;"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10&line_height=25&theme=chartreuse-dark"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajneeshweb&amp;theme=chartreuse-dark&amp;" alt="rajneeshweb" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10&line_height=25&theme=chartreuse-dark"><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshweb&label=Profile%20views&color=eb4112&style=plastic" alt="rajneeshweb" /> </p>
