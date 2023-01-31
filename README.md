@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm RAJNEESH</h2>
 <h4 align="center">A passionate Software Engineer who loves to learn about new technologies and working on them.</h4>
 
-- 🔭 I’m currently working on _Laravel(PHP web application framework)_
+- 🔭 I’m currently working on _Laravel (PHP web application framework)_
 - 🌱 I’m currently learning _Full Stack Developement_
 - 📧 **Pro.mailtome@gmail.com**
 - 🌐 **https://annon.netlify.app**
