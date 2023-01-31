@@ -12,4 +12,4 @@
 <a href="https://github.com/rajneeshweb/TodoList" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=TodoList&theme=chartreuse-dark" />
 </a>
-<br/><p align="center"> <img src="https://komarev.com/ghpvc/?username=rajneeshweb&label=Profile%20views&color=eb4112&style=plastic" alt="rajneeshweb" /> </p>
+<br/><p align="right"> <img src="https://komarev.com/ghpvc/?username=rajneeshweb&label=Profile%20views&color=eb4112&style=plastic" alt="rajneeshweb" /> </p>
