@@ -9,17 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rajneeshweb&amp;show_icons=true&amp;include_all_commits=false&amp;count_private=true&amp;line_height=30&amp;theme=chartreuse-dark&amp;"><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10&line_height=25&theme=chartreuse-dark"><br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajneeshweb&amp;theme=chartreuse-dark&amp;" alt="rajneeshweb" /><br/><br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshweb&label=Profile%20views&color=eb4112&style=plastic" alt="rajneeshweb" /> </p>
-
-<a href="https://github.com/rajneeshweb/DataStructure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=DataStructure" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshweb&label=Profile%20views&color=eb4112&style=plastic" alt="rajneeshweb" /> </p><br/><br/>
 <a href="https://github.com/rajneeshweb/TodoList">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=TodoList" />
-</a>
-<a href="https://github.com/rajneeshweb/Wifi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=Wifi" />
-</a>
-<a href="https://github.com/rajneeshweb/currency-converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=currency-converter" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&chartreuse-dark&repo=TodoList" />
 </a>
