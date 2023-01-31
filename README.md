@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=rajneeshweb&amp;show_icons=true&amp;include_all_commits=false&amp;count_private=true&amp;line_height=28&amp;theme=chartreuse-dark&amp;">
+<img src="https://github-readme-stats.vercel.app/api?username=rajneeshweb&amp;show_icons=true&amp;include_all_commits=false&amp;count_private=true&amp;line_height=30&amp;theme=chartreuse-dark&amp;">
 
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning full Stack Developement
@@ -9,7 +9,7 @@
 - Email: Pro.mailtome@gmail.com
 - Website: https://annon.netlify.app
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&langs_count=8)](https://github.com/rajneeshweb/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10)](https://github.com/rajneeshweb/github-readme-stats)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajneeshweb" alt="rajneeshweb" /></a> </p>
