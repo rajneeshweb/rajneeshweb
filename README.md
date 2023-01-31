@@ -11,5 +11,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajneeshweb&amp;theme=chartreuse-dark&amp;" alt="rajneeshweb" /><br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshweb&label=Profile%20views&color=eb4112&style=plastic" alt="rajneeshweb" /> </p><br/><br/>
 <a href="https://github.com/rajneeshweb/TodoList">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&chartreuse-dark&repo=TodoList" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&bg_color=70,eb4112&repo=TodoList" />
 </a>
