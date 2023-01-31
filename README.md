@@ -1,4 +1,4 @@
-- [![Rajneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajneeshweb&show_icons=true&theme=tokyonight)](https://github.com/rajneeshweb/github-readme-stats)
+- [![Rajneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajneeshweb&show_icons=true&theme=dark)](https://github.com/rajneeshweb/github-readme-stats)
 
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning full Stack Developement
