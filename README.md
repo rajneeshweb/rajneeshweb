@@ -11,7 +11,7 @@
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10)](https://github.com/rajneeshweb/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?/top-langs/?username=rajneeshweb&layout=compact&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajneeshweb" alt="rajneeshweb" /></a> </p>
 
