@@ -1,15 +1,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rajneeshweb&amp;show_icons=true&amp;include_all_commits=false&amp;count_private=true&amp;line_height=30&amp;theme=chartreuse-dark&amp;">
 
-- 🔭 I’m currently working on Laravel
-- 🌱 I’m currently learning full Stack Developement
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- Email: Pro.mailtome@gmail.com
-- Website: https://annon.netlify.app
-
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10)](https://github.com/rajneeshweb/github-readme-stats)
+- 🔭 I’m currently working on _**PHP Laravel_**
+- 🌱 I’m currently learning _**full Stack Developement_**
+- 📧 **Pro.mailtome@gmail.com**
+- 🌐 **https://annon.netlify.app**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10&line_height=25&theme=chartreuse-dark">
 
