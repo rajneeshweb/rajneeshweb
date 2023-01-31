@@ -17,3 +17,9 @@
 <a href="https://github.com/rajneeshweb/TodoList">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=TodoList" />
 </a>
+<a href="https://github.com/rajneeshweb/Wifi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=Wifi" />
+</a>
+<a href="https://github.com/rajneeshweb/currency-converter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=currency-converter" />
+</a>
