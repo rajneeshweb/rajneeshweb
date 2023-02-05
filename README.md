@@ -18,7 +18,6 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=rajneeshweb)
 
 </details><br/><br/>
----
 <a href="https://github.com/rajneeshweb/TodoList" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajneeshweb&repo=TodoList&theme=chartreuse-dark" />
 </a>
