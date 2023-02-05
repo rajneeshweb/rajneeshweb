@@ -2,7 +2,6 @@
 <h4 align="center">A passionate Software Engineer who loves to learn about new technologies and working on them.</h4>
 <br/>
 
-- 🔭 I’m currently working on _Laravel (PHP web application framework)_
 - 🌱 I’m currently learning _Full Stack Developement_
 - 📧 **Pro.mailtome@gmail.com**
 - 🌐 **https://annon.netlify.app**
