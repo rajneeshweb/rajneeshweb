@@ -8,6 +8,7 @@
 
 ---
 
+<img align="left" alt="Image" width="30px" src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" />
 <br/><img src="https://github-readme-stats.vercel.app/api?username=rajneeshweb&amp;show_icons=true&amp;include_all_commits=false&amp;count_private=true&amp;line_height=30&amp;theme=chartreuse-dark&amp;"><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshweb&layout=compact&langs_count=10&line_height=25&theme=chartreuse-dark"><br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajneeshweb&amp;theme=chartreuse-dark&amp;" alt="rajneeshweb" /><br/><br/>
@@ -23,14 +24,13 @@
 <img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="28px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="Apollo" width="28px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/Apollo.png" />
 <img align="left" alt="GraphQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 
 <br />
 </details><br/>
